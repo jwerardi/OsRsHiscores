@@ -1,5 +1,5 @@
 # OsRsHiscores
-Discord bot for fetching osrs hiscores
+Discord bot for fetching osrs hiscores, requires node to run
 ## Usage
 ### Single skill
 `.osrs <playername> <skillname>`
