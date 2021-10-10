@@ -1,5 +1,7 @@
 {
     "token": "",
+    "clientId": "",
+    "guildId": "",
     "hiscoresRootUrl": "https://secure.runescape.com/m=hiscore_oldschool/a=62/index_lite.ws?player=",
     "skills": [
         ["total"],
