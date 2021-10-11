@@ -1,4 +1,4 @@
-a discord bot that ranks whose the sweatiest osrs player in mumble using slash command `/osrs`
+a discord bot that ranks whose the sweatiest osrs player in mumble group ironman using slash command `/osrs`
 
 ![image](https://user-images.githubusercontent.com/14876163/136835994-b69ca72b-22c0-49b3-8488-41be4dcc84ca.png)
 
