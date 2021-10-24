@@ -8,6 +8,8 @@ const mumbleBros = [
     'iron chulo',
     'GIM Goobs',
     'Fe Nonney',
+    'IRN LUMJACK',
+    'FatherJoeB',
 ]
 
 const getIsSingleSkillCheck = (parts) => {
